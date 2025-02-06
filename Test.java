@@ -2,8 +2,7 @@ import java.util.Scanner;
 
 public class Test {
     public static void main(String[] args) {
-        Student t1=new Student();
-        Student t2=new Student();
+
         Scanner commen=new Scanner(System.in);
         System.out.println("enter the full name");
         t1.name=commen.next();
